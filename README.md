@@ -3,9 +3,10 @@
 🍻 Aditya Maurya
 </h1>
 
+<br>
 <p align="center">
   <a href="https://github.com/adxxtya?tab=repositories">
-    <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=repo&logoColor=white&label=Repositories&query=$.public_repos&url=https://api.github.com/users/adxxtya"/></a>
+    <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?color=a728eb&labelColor=7f11bb&style=for-the-badge&logo=repo&logoColor=white&label=Repositories&query=$.public_repos&url=https://api.github.com/users/adxxtya"/></a>
   <a href="https://github.com/adxxtya?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/adxxtya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/adxxtya?tab=followers">
@@ -20,8 +21,7 @@
  Ayo! I'm Aditya, a full stack developer and programmer. I pride myself on being reliable, always ready to deliver whenever needed. With a strong grasp of core concepts, I tackle complex challenges with ease. But coding isn't just serious business for me; I bring a touch of humor and entertainment to the table. Collaboration with me is not only productive but also enjoyable. Oh, and did I mention my love for coffee? It fuels my passion for technology and innovation. If you're looking for a skilled, entertaining developer who never misses a beat, let's connect!
  </p>
 
-<div align="center">
- <iframe src="https://giphy.com/embed/dsKnRuALlWsZG" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div class="tenor-gif-embed" data-postid="16233891" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/gifts-villa-i-think-that-pretty-much-sums-it-up-michael-scott-gif-16233891">Gifts Villa I Think That Pretty Much Sums It Up GIF</a>from <a href="https://tenor.com/search/gifts+villa-gifs">Gifts Villa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
@@ -51,7 +51,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adxxtya" height="30" width="40" /></a>
 <a href="https://instagram.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adxxtya" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adxxtya" height="30" width="40" /></a>
 </p>
 
