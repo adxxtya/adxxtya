@@ -57,7 +57,19 @@
 ---
 
 <br>
-<h2 align="center">Github Stats</h2>
+<h2 align="center">🧞 Connect with me</h2>
+<br>
+
+<p align="left">
+<a href="https://linkedin.com/in/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adxxtya" height="30" width="40" /></a>
+<a href="https://instagram.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adxxtya" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adxxtya" height="30" width="40" /></a>
+</p>
+
+---
+
+<br>
+<h2 align="center">🐈‍⬛ Github Stats</h2>
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adxxtya&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
@@ -65,5 +77,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=adxxtya&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adxxtya&langs_count=12&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
+
+
 
 
