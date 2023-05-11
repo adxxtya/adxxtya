@@ -22,9 +22,9 @@
  </p>
 
 
-![gifts-villa-i-think-that-pretty-much-sums-it-up](https://github.com/adxxtya/adxxtya/assets/93598229/10b024ec-9647-4dd5-aa0c-037d7c11132e)
-
-
+<div align="center">
+    <img src="https://github.com/adxxtya/adxxtya/assets/93598229/10b024ec-9647-4dd5-aa0c-037d7c11132e" alt="gifts-villa-i-think-that-pretty-much-sums-it-up">
+</div>
 
 ---
 <br>
