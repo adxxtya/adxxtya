@@ -12,7 +12,7 @@
   <a href="https://github.com/adxxtya?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adxxtya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Follow&logoColor=white"/></a>
 </p>
-
+<br>
 
 **`Code Alchemist (Developer/Proompter/Creator)`**
 
@@ -21,8 +21,8 @@
  Ayo! I'm Aditya, a full stack developer and programmer. I pride myself on being reliable, always ready to deliver whenever needed. With a strong grasp of core concepts, I tackle complex challenges with ease. But coding isn't just serious business for me; I bring a touch of humor and entertainment to the table. Collaboration with me is not only productive but also enjoyable. Oh, and did I mention my love for coffee? It fuels my passion for technology and innovation. If you're looking for a skilled, entertaining developer who never misses a beat, let's connect!
  </p>
 
-<div class="tenor-gif-embed" data-postid="16233891" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/gifts-villa-i-think-that-pretty-much-sums-it-up-michael-scott-gif-16233891">Gifts Villa I Think That Pretty Much Sums It Up GIF</a>from <a href="https://tenor.com/search/gifts+villa-gifs">Gifts Villa GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+![gifts-villa-i-think-that-pretty-much-sums-it-up](https://github.com/adxxtya/adxxtya/assets/93598229/10b024ec-9647-4dd5-aa0c-037d7c11132e)
 
 
 
