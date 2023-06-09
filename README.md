@@ -27,6 +27,21 @@
 </div>
 
 ---
+
+<br>
+<h2 align="center">🐈‍⬛ Github Stats</h2>
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adxxtya&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adxxtya&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adxxtya&langs_count=15&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
+
+
+
+
+---
 <br>
 <h2 align="center">🧰 Languages and Tools</h2>
 <br>
