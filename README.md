@@ -12,7 +12,11 @@
   <a href="https://github.com/adxxtya?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adxxtya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Follow&logoColor=white"/></a>
 </p>
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adxxtya" height="30" width="40" /></a>
+  <a href="https://instagram.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adxxtya" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adxxtya" height="30" width="40" /></a>
+</p>
 
 **`Code Alchemist (Developer/Proompter/Creator)`**
 
@@ -32,7 +36,7 @@
 <h2 align="center">🐈‍⬛ Github Stats</h2>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adxxtya&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adxxtya&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adxxtya&theme=dark)](https://git.io/streak-stats)
 
@@ -56,18 +60,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=I+create+projects+using+these;This+can+be+called+my+tech+stack;I+am+learning+more+things+rn;I+have+personal+experience+with;all+of+the+things+mentioned+above&font=Nunito%20Code&center=true&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-
----
-
-<br>
-<h2 align="center">🧞 Connect with me</h2>
-<br>
-
-<p align="left">
-<a href="https://linkedin.com/in/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adxxtya" height="30" width="40" /></a>
-<a href="https://instagram.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adxxtya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adxxtya" height="30" width="40" /></a>
-</p>
 
 ---
 
