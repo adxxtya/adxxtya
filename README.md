@@ -1,4 +1,3 @@
-
 <h1 align="center">
 🍻 Aditya Maurya
 </h1>
@@ -12,19 +11,19 @@
   <a href="https://github.com/adxxtya?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adxxtya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Follow&logoColor=white"/></a>
 </p>
+
 <p align="center">
   <a href="https://linkedin.com/in/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adxxtya" height="30" width="40" /></a>
   <a href="https://instagram.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adxxtya" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adxxtya" height="30" width="40" /></a>
+  <a href="https://codepen.io/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adxxtya" height="30" width="40" /></a>
 </p>
 
 **`Code Alchemist (Developer/Proompter/Creator)`**
 
-
  <p align="justify">
  Ayo! I'm Aditya, a full stack developer and programmer. I pride myself on being reliable, always ready to deliver whenever needed. With a strong grasp of core concepts, I tackle complex challenges with ease. But coding isn't just serious business for me; I bring a touch of humor and entertainment to the table. Collaboration with me is not only productive but also enjoyable. Oh, and did I mention my love for coffee? It fuels my passion for technology and innovation. If you're looking for a skilled, entertaining developer who never misses a beat, let's connect!
  </p>
-
 
 <div align="center">
     <img src="https://github.com/adxxtya/adxxtya/assets/93598229/10b024ec-9647-4dd5-aa0c-037d7c11132e" alt="gifts-villa-i-think-that-pretty-much-sums-it-up">
@@ -42,10 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adxxtya&langs_count=15&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
 
-
-
-
 ---
+
 <br>
 <h2 align="center">🧰 Languages and Tools</h2>
 <br>
@@ -54,12 +51,9 @@
 
 <br />
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+create+projects+using+these;This+can+be+called+my+tech+stack;I+am+learning+more+things+rn;I+have+personal+experience+with;all+of+the+things+mentioned+above&font=Nunito%20Code&center=true&width=400&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-
 
 ---
 
@@ -72,7 +66,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=adxxtya&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adxxtya&langs_count=12&show_icons=true&theme=dark)](https://github.com/adxxtya/github-readme-stats)
-
-
-
-
