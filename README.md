@@ -12,6 +12,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adxxtya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person&label=Follow&logoColor=white"/></a>
 </p>
 
+
 <p align="center">
   <a href="https://linkedin.com/in/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adxxtya" height="30" width="40" /></a>
   <a href="https://instagram.com/adxxtya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adxxtya" height="30" width="40" /></a>
